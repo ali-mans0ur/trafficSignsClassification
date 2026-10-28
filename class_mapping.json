@@ -1,0 +1,247 @@
+{
+  "0": {
+    "class_id": 0,
+    "folder": "0",
+    "name": "Speed limit (5km/h)"
+  },
+  "1": {
+    "class_id": 1,
+    "folder": "1",
+    "name": "Speed limit (15km/h)"
+  },
+  "2": {
+    "class_id": 10,
+    "folder": "10",
+    "name": "Dont Go straight"
+  },
+  "3": {
+    "class_id": 11,
+    "folder": "11",
+    "name": "Dont Go Left"
+  },
+  "4": {
+    "class_id": 12,
+    "folder": "12",
+    "name": "Dont Go Left or Right"
+  },
+  "5": {
+    "class_id": 13,
+    "folder": "13",
+    "name": "Dont Go Right"
+  },
+  "6": {
+    "class_id": 14,
+    "folder": "14",
+    "name": "Dont overtake from Left"
+  },
+  "7": {
+    "class_id": 15,
+    "folder": "15",
+    "name": "No Uturn"
+  },
+  "8": {
+    "class_id": 16,
+    "folder": "16",
+    "name": "No Car"
+  },
+  "9": {
+    "class_id": 17,
+    "folder": "17",
+    "name": "No horn"
+  },
+  "10": {
+    "class_id": 2,
+    "folder": "2",
+    "name": "Speed limit (30km/h)"
+  },
+  "11": {
+    "class_id": 20,
+    "folder": "20",
+    "name": "Go straight or right"
+  },
+  "12": {
+    "class_id": 21,
+    "folder": "21",
+    "name": "Go straight"
+  },
+  "13": {
+    "class_id": 22,
+    "folder": "22",
+    "name": "Go Left"
+  },
+  "14": {
+    "class_id": 23,
+    "folder": "23",
+    "name": "Go Left or right"
+  },
+  "15": {
+    "class_id": 24,
+    "folder": "24",
+    "name": "Go Right"
+  },
+  "16": {
+    "class_id": 26,
+    "folder": "26",
+    "name": "keep Right"
+  },
+  "17": {
+    "class_id": 27,
+    "folder": "27",
+    "name": "Roundabout mandatory"
+  },
+  "18": {
+    "class_id": 28,
+    "folder": "28",
+    "name": "watch out for cars"
+  },
+  "19": {
+    "class_id": 29,
+    "folder": "29",
+    "name": "Horn"
+  },
+  "20": {
+    "class_id": 3,
+    "folder": "3",
+    "name": "Speed limit (40km/h)"
+  },
+  "21": {
+    "class_id": 30,
+    "folder": "30",
+    "name": "Bicycles crossing"
+  },
+  "22": {
+    "class_id": 31,
+    "folder": "31",
+    "name": "Uturn"
+  },
+  "23": {
+    "class_id": 32,
+    "folder": "32",
+    "name": "Road Divider"
+  },
+  "24": {
+    "class_id": 34,
+    "folder": "34",
+    "name": "Danger Ahead"
+  },
+  "25": {
+    "class_id": 35,
+    "folder": "35",
+    "name": "Zebra Crossing"
+  },
+  "26": {
+    "class_id": 36,
+    "folder": "36",
+    "name": "Bicycles crossing"
+  },
+  "27": {
+    "class_id": 37,
+    "folder": "37",
+    "name": "Children crossing"
+  },
+  "28": {
+    "class_id": 38,
+    "folder": "38",
+    "name": "Dangerous curve to the left"
+  },
+  "29": {
+    "class_id": 39,
+    "folder": "39",
+    "name": "Dangerous curve to the right"
+  },
+  "30": {
+    "class_id": 4,
+    "folder": "4",
+    "name": "Speed limit (50km/h)"
+  },
+  "31": {
+    "class_id": 40,
+    "folder": "40",
+    "name": "Unknown1"
+  },
+  "32": {
+    "class_id": 41,
+    "folder": "41",
+    "name": "Unknown2"
+  },
+  "33": {
+    "class_id": 42,
+    "folder": "42",
+    "name": "Unknown3"
+  },
+  "34": {
+    "class_id": 43,
+    "folder": "43",
+    "name": "Go right or straight"
+  },
+  "35": {
+    "class_id": 44,
+    "folder": "44",
+    "name": "Go left or straight"
+  },
+  "36": {
+    "class_id": 45,
+    "folder": "45",
+    "name": "Unknown4"
+  },
+  "37": {
+    "class_id": 46,
+    "folder": "46",
+    "name": "ZigZag Curve"
+  },
+  "38": {
+    "class_id": 47,
+    "folder": "47",
+    "name": "Train Crossing"
+  },
+  "39": {
+    "class_id": 48,
+    "folder": "48",
+    "name": "Under Construction"
+  },
+  "40": {
+    "class_id": 49,
+    "folder": "49",
+    "name": "Unknown5"
+  },
+  "41": {
+    "class_id": 5,
+    "folder": "5",
+    "name": "Speed limit (60km/h)"
+  },
+  "42": {
+    "class_id": 50,
+    "folder": "50",
+    "name": "Fences"
+  },
+  "43": {
+    "class_id": 52,
+    "folder": "52",
+    "name": "Unknown6"
+  },
+  "44": {
+    "class_id": 54,
+    "folder": "54",
+    "name": "No stopping"
+  },
+  "45": {
+    "class_id": 55,
+    "folder": "55",
+    "name": "No entry"
+  },
+  "46": {
+    "class_id": 56,
+    "folder": "56",
+    "name": "Unknown7"
+  },
+  "47": {
+    "class_id": 6,
+    "folder": "6",
+    "name": "Speed limit (70km/h)"
+  },
+  "48": {
+    "class_id": 7,
+    "folder": "7",
+    "name": "speed limit (80km/h)"
+  }
+}
